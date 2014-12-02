@@ -5,3 +5,6 @@ test-repo
 test repository
 
 pare mia allagh
+
+gia push kai ligo
+
